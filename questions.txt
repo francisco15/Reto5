@@ -1,0 +1,12 @@
+What is the superclass of Fixnum?,integer
+What can you say about an identifier that begins with a capital letter?,constant
+Are class variables inherited?,no
+Does String include the Enumerable module?,no
+Can classes be nested?,yes
+Which operator must be defined in order to implement the Comparable module?,<=>
+Which binds more tightly? && or and,&&
+Does a while block define a new scope?,no
+Does Ruby support method overloading?,no
+How would you typically prevent future modifications to an object?,#freeze
+Which core object includes the Kernel module?,object
+Does a rescue block define a new scope?,no
